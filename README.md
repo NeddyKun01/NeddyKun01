@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neddy</h1>
-<h3 align="center">A passionate software developer from Portugal & 42 School Student</h3>
+<h3 align="center">A passionate software developer from Portugal & 42 School Alumni</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=neddykun01&label=Profile%20views&color=0e75b6&style=flat-square" alt="neddykun01" />
@@ -9,7 +9,7 @@
 
 ## 💫 About Me
 
-- 🏫 **Current Focus:** Student at **42**, currently mastering low-level programming and software architecture.
+- 🏫 **Current Focus:** Alumni at **42**, currently mastering low-level programming and software architecture.
 - 🔭 **I’m currently working on:** [`Get_Next_Line`](https://github.com/NeddyKun01/Get_Next_Line) — a 42 Core project handling file descriptors and memory management in C.
 - 💬 **Ask me about:** **Anything related to the 42 Common Core** (Libft, printf, gnI, etc.).
 - 👨‍💻 **My Portfolio:** Check out all my repositories right [here](https://github.com/NeddyKun01?tab=repositories).
