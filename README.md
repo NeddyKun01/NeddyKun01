@@ -40,16 +40,3 @@
 | | | | |
 | :---: | :---: | :---: | :---: |
 | <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> <br> **Cypress** | <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> <br> **Jest** | <img src="https://www.detain.com/svg-logos/svg/selenium-logo.svg" alt="selenium" width="40" height="40" onerror="this.src='https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg'"/> <br> **Selenium** | <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> <br> **Arduino** |
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neddykun01&show_icons=true&theme=tokyonight&count_private=true" alt="Neddy's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neddykun01&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neddykun01&theme=tokyonight" alt="GitHub Streak" />
-</p>
