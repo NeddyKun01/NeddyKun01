@@ -10,7 +10,7 @@
 ## 💫 About Me
 
 - 🏫 **Current Focus:** Alumni at **42**, currently mastering low-level programming and software architecture.
-- 🔭 **I’m currently working on:** ("Libft Tester")[https://github.com/NeddyKun01/Libft-Tester] — A comprehensive testing suite designed to validate all mandatory functions for the 42 School Libft project.
+- 🔭 **I’m currently working on:** ["Libft Tester"](https://github.com/NeddyKun01/Libft-Tester) — A comprehensive testing suite designed to validate all mandatory functions for the 42 School Libft project.
 - 💬 **Ask me about:** **Anything related to the 42 Common Core** (Libft, printf, gnI, etc.).
 - 👨‍💻 **My Portfolio:** Check out all my repositories right [here](https://github.com/NeddyKun01?tab=repositories).
 
